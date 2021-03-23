@@ -13,7 +13,7 @@ class EventModel : NSObject{
     
     //Declaration of Singleton and constants
     static let sharedInstance = EventModel()
-    let ACCESS_KEY = "a92074452d5c39cda944b62927241968"
+    let ACCESS_KEY = " "
     let BASE_URL = "https://rest.bandsintown.com/artists/"
     
     //Data Structure for Event Model
